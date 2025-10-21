@@ -11,7 +11,7 @@
   </h3>
   
   <p align="center">
-    Profissional com 3 anos de experiência em Departamento Pessoal e Análise de Dados, apaixonado por unir expertise em rotinas trabalhistas com Business Intelligence para otimizar processos e apoiar decisões estratégicas.
+     Profissional com 3 anos de experiência em Departamento Pessoal e Análise de Dados, apaixonado por unir expertise em rotinas trabalhistas com Business Intelligence para otimizar processos e apoiar decisões estratégicas.
   </p>
 
 </div>
@@ -107,5 +107,7 @@
 ### 🎮 Minhas Contribuições no GitHub (Snake Game)
 
 <div align="center">
-  <img src="https://github.com/Ignowsky/github-snake/blob/output/github-contribution-grid-snake.svg" alt="Snake game no GitHub contribution grid"/>
-  </div>
+  
+<img src="https://raw.githubusercontent.com/Ignowsky/github-snake/main/dist/github-contribution-grid-snake.svg" alt="Snake game no GitHub contribution grid"/>
+  
+</div>
