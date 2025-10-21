@@ -108,6 +108,6 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Ignowsky/github-snake/main/dist/github-contribution-grid-snake.svg" alt="Snake game no GitHub contribution grid"/>
+<img src="https://raw.githubusercontent.com/Ignowsky/github_snake/main/dist/github-contribution-grid-snake.svg" alt="Snake game no GitHub contribution grid"/>
   
 </div>
