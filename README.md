@@ -101,3 +101,11 @@
   <li>🔎 Power BI Desktop: tratamento de dados no Power Query</li>
   <li>🏅 Certificações do Google</li>
 </ul>
+
+---
+
+### 🎮 Minhas Contribuições no GitHub (Snake Game)
+
+<div align="center">
+  <img src="https://github.com/Ignowsky/github-snake/blob/output/github-contribution-grid-snake.svg" alt="Snake game no GitHub contribution grid"/>
+  </div>
