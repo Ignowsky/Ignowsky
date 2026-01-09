@@ -67,19 +67,16 @@ Aplicativo desenvolvido para descentralizar e agilizar o fluxo de aprovação de
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ignowsky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ignowsky GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignowsky&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
-</div>
+### 📊 Minha Rotina no GitHub
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ignowsky/Ignowsky/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>*Os gráficos de estatísticas detalhadas estarão disponíveis em breve, conforme torno públicos meus projetos de Machine Learning.*</sub>
 </div>
 
 ### 🎓 Formação Acadêmica
