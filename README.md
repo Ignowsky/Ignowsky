@@ -9,7 +9,7 @@
   <h3>Transformando dados de RH em Inteligência Estratégica</h3>
   
   <p>
-    Atualmente <strong>Analista de People Analytics II</strong> na <strong>Arqdigital T.I</strong>.
+    Atualmente <strong>Analytics II - People Analytics</strong> na <strong>CNI - Confederação Nacional da Indústria</strong>.
   </p>
   
   <a href="https://www.linkedin.com/in/joão-pedro-santos-santana-4a244317a" target="_blank">
