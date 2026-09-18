@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=People+Analytics+Analyst+II;Data+Science+%26+Machine+Learning;HR+Tech+%26+Engineering;Data+Storytelling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=People+Analytics+%7C+Analytics+II;Data+Engineering+%26+MLOps;Business+Intelligence+%26+DAX;Data+Storytelling+no+RH" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <h1>Olá, sou João Pedro Santos Santana 👋</h1>
-  <h3>Transformando dados de RH em Inteligência Estratégica</h3>
+  <h3>Transformando dados de RH em Inteligência Estratégica e Modelos Escaláveis</h3>
   
   <p>
-    Atualmente <strong>Analytics II - People Analytics</strong> na <strong>CNI - Confederação Nacional da Indústria</strong>.
+    Atualmente atuando como <strong>Analytics II - People Analytics</strong> na <strong>CNI (Confederação Nacional da Indústria)</strong>.
   </p>
   
   <a href="https://www.linkedin.com/in/joão-pedro-santos-santana-4a244317a" target="_blank">
@@ -22,25 +22,28 @@
 
 ---
 
-### 💡 Sobre Mim & Visão
+### 💡 Sobre Mim & Visão Arquitetural
 
-Minha trajetória conecta a **profundidade técnica do Departamento Pessoal** com a **inovação da Ciência de Dados**. Não olho apenas para planilhas; construo ecossistemas de dados que sustentam decisões executivas.
+Minha trajetória conecta o domínio das regras de negócio de Recursos Humanos com a execução técnica avançada em **Ciência e Engenharia de Dados**. Não apenas consumo planilhas; eu construo os ecossistemas de dados que sustentam as decisões executivas e automatizam processos complexos.
 
-* 🔭 **Onde estou:** Liderando a frente de dados de RH na Arqdigital, focando na metodologia **HAP BPM** e arquitetura de processos.
-* 🧠 **Meu foco:** Sair do operacional e aplicar **Machine Learning** (predição de Turnover), **Engenharia de Dados** (ETL de PDFs/APIs) e **Automação** (Power Apps/Python).
-* 🎨 **Diferencial:** Data Storytelling. Acredito que um modelo complexo só tem valor se for traduzido em uma narrativa clara para a liderança.
+> *"Acredito que um modelo preditivo complexo só atinge seu verdadeiro valor quando traduzido em uma narrativa clara e acionável para a liderança."*
+
+* 🔭 **Onde estou:** Focado na execução técnica *hands-on* e na consolidação de arquiteturas de dados de RH, garantindo escalabilidade e governança.
+* 🧠 **Meu foco técnico:** Construção de pipelines de transformação analítica, modelagem preditiva de *Turnover* e Absenteísmo, e desenvolvimento de catálogos de metadados e visualizações interativas.
+* ⚙️ **Diferencial:** Capacidade de transitar desde a ingestão de dados em bancos transacionais até o desenvolvimento de *front-ends* para consumo do usuário final.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Stack Tecnológica
 
 <div align="center">
 
-| **Ciência de Dados & ML** | **Engenharia & Back-end** | **Viz & Low-Code** | **ERP & Ferramentas** |
+| **Engenharia de Dados & Cloud** | **Data Science & ML** | **BI & Analytics** | **Web & Automação** |
 |:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white) | ![Metadados](https://img.shields.io/badge/Metadados_System-000000?style=flat-square&logo=database&logoColor=white) |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-4EAA25?style=flat-square&logo=apacheairflow&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![TOTVS](https://img.shields.io/badge/TOTVS_Protheus-003D7B?style=flat-square&logo=totvs&logoColor=white) |
+| ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) | ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Metadados](https://img.shields.io/badge/Metadados_System-000000?style=flat-square&logo=database&logoColor=white) | ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) |
 
 </div>
 
@@ -48,22 +51,25 @@ Minha trajetória conecta a **profundidade técnica do Departamento Pessoal** co
 
 ### 🏆 Projetos em Destaque
 
-> *Uma amostra do que tenho desenvolvido recentemente:*
+#### 🧊 1. Arquitetura Iceberg HR Analytics (Modern Data Stack)
+Construção end-to-end de um Data Lakehouse para consolidar fontes de dados de RH, implementando a arquitetura *medallion*.
+* **Tech:** Python, Google BigQuery, dbt.
+* **Execução:** Desenvolvimento de pipelines de transformação via dbt, materializando *staging views* estruturais (`stg_cargos`, `stg_pessoas`, `stg_fato_contratos`) para garantir integridade e performance na camada de consumo.
 
-#### 🧠 1. Modelo Preditivo de Turnover (Machine Learning)
-Desenvolvimento de um modelo de classificação supervisionada para prever a rotatividade de funcionários.
-* **Tech:** Python, Pandas, Scikit-learn, XGBoost.
-* **Resultado:** Alcancei um **Recall de 76%**, permitindo a identificação proativa de talentos em risco de saída antes que o desligamento ocorra.
+#### 🧠 2. Modelagem Preditiva de Turnover e Calibração
+Desenvolvimento de modelos de Machine Learning supervisionados para antecipação de rotatividade.
+* **Tech:** Python, PySpark, Scikit-learn, XGBoost.
+* **Execução:** Otimização de hiperparâmetros, avaliação rigorosa de métodos de calibração probabilística e estruturação de scripts de escoragem para rodar em rotinas automatizadas (MLOps).
 
-#### 🏗️ 2. ARQ-People Intelligence (Engenharia de Dados)
-Projeto de arquitetura de dados para centralizar informações dispersas de RH.
-* **Tech:** Python, APIs, PostgreSQL, Tratamento de PDFs.
-* **Escopo:** Criação de pipeline para extração automatizada de dados de relatórios em PDF e consumo de APIs, carregando tudo em um Data Warehouse SQL para alimentar dashboards em tempo real.
+#### 📊 3. Dicionário de Metadados e BI Interativo
+Solução de inteligência de negócios para navegação estruturada em esquemas complexos de banco de dados.
+* **Tech:** SQL (Oracle), Power BI, DAX.
+* **Execução:** Extração de metadados (`all_tables`, `all_constraints`) com SQL, modelagem de dados em *star schema*, aplicação de *Row-Level Security* (RLS) e construção de painéis de *drill-through* para exploração fluida pela gestão.
 
-#### 📱 3. Gestão de Férias & Processos (Power Platform)
-Aplicativo desenvolvido para descentralizar e agilizar o fluxo de aprovação de férias.
-* **Tech:** Power Apps, Power Automate.
-* **Impacto:** Redução drástica no tempo de e-mails trocados e maior transparência para gestores e colaboradores.
+#### 💰 4. Simulação Atuarial e Gestão de Benefícios
+Automação de modelos de simulação para projeção de custos com planos de saúde corporativos.
+* **Tech:** Microsoft Excel (Avançado), VBA.
+* **Execução:** Criação de rotinas em VBA e modelagem lógico-matemática (PROCX, SUMIFS) para projetar alocação de custos cruzando faixas hierárquicas e dependentes, suportando negociações diretas com fornecedores e *stakeholders*.
 
 ---
 
@@ -73,22 +79,16 @@ Aplicativo desenvolvido para descentralizar e agilizar o fluxo de aprovação de
   <img src="https://raw.githubusercontent.com/Ignowsky/Ignowsky/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<br>
-
-<div align="center">
-  <sub>*Os gráficos de estatísticas detalhadas estarão disponíveis em breve, conforme torno públicos meus projetos de Machine Learning.*</sub>
-</div>
-
 ### 🎓 Formação Acadêmica
 
 | Grau | Curso | Instituição | Período |
 | :--- | :--- | :--- | :--- |
-| **Pós-Graduação** | RH Analytics (People Analytics) | Unyleya | 2024 - 2025 |
 | **Graduação** | Ciências de Dados e Análise de Comportamento | UniCesumar | 2025 - 2027 |
+| **Pós-Graduação** | RH Analytics (People Analytics) | Unyleya | 2024 - 2025 |
 | **Bacharelado** | Gestão de Recursos Humanos | Estácio | 2021 - 2023 |
 
 ---
 
 <div align="center">
-  <sub>Construindo o futuro do RH com dados. 🚀</sub>
+  <sub>Arquitetando o RH através de código e dados. 🚀</sub>
 </div>
